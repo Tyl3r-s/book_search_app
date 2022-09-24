@@ -1,4 +1,4 @@
-# Book Search Engine Starter Code
+# Book Search Engine
 
 ### User Story
 As a User I would like a website to search books so I can save a list to read later. When I am presented with the main page I should be able to type criteria in the search and be presented with a list of books matching that criteria. As a user I want a secure login to the site. If I am logged into the site, when I search boooks I should see an option to save the book. Then when I go to my saved books section I should see all my saved books. I should also be able to delete a book from my saved books.
