@@ -1,5 +1,10 @@
+// importing Apollo server express
 const { gql } = require("apollo-server-express");
 
+
+// these are the type definitions for GraphQL to use
+// there is a type for Book, User, Auth, and input SavedBooInput and a query for ME
+// Mutations are also added for login, addUser, saveBook, and removeBook
 const typeDefs = gql`
   type Book {
     authors: [String]
