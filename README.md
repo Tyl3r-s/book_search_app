@@ -34,8 +34,8 @@ Users can also delete books from this section
 3. Then at the root folder, run npm start and go to:
 http://localhost:3000/#home
 
-You can also view the live page here: <br />
-
+You can also view the deploiyed app here: <br />
+https://book-search-utility.herokuapp.com
 
 
 ### Contribution Guidelines
@@ -49,9 +49,14 @@ To test this app:<br />
 2. Install depenencies using npm istall. <br />
 3. from the root folder run npm start <br />
 4. Browser should open to this page: http://localhost:3000/#home <br />
-5. Try nagigation around the site <br />
-6. Test out the form in the contact Me section <br />
-7. Also test out the deployed here: 
+5. Try to sign up to the site <br />
+6. Try lgout and logging into the site <br />
+7. Test the search by searching for books. <br />
+8. Try adding a book from the search results. <br />
+9. Check that saved books are in your saved boks section.<br />
+10. Try deleting a book from your saved books section<br />
+11. alternatively you can test the deployed app here:
+    https://book-search-utility.herokuapp.com
 
 ### Questions
     email address : kevinnivek@me.com
