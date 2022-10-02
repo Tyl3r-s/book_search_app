@@ -13,6 +13,7 @@ Users can also delete books from this section
 
 ### badges
 ![HTML](https://img.shields.io/badge/HTML-License-blue)
+![CSS](https://img.shields.io/badge/CSS-License-lightgrey)
 ![React.js](https://img.shields.io/badge/React.js-License-yellowgreen)
 ![JavaScript](https://img.shields.io/badge/JavaScript-License-lightblue)
 ![Express.js](https://img.shields.io/badge/Express-License-lightgrey)
